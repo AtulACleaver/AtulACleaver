@@ -6,7 +6,7 @@
   <img align="left"  width="40px" src="https://media.giphy.com/media/2DdQosPxKwxpp58EZk/giphy.gif" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left"  width="70px" src="https://media.giphy.com/media/kcrsKaI8PvJzsKRCNT/giphy.gif" />
+  <img align="left"  width="60px" src="https://media.giphy.com/media/kcrsKaI8PvJzsKRCNT/giphy.gif" />
 </a>
 <a href = "https://atulacleaver.medium.com/">
   <img align="left" width = "50px" src="https://media.giphy.com/media/SSKQeJpU3aPEIPiGHT/giphy.gif" />
