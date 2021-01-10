@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning MERN Stack & Java and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">Mail Me</a>.
+- 🤝 Collab with: <code>Eddiehub</code>, #Local Hack day
 
 **Languages and Tools:**  
 <p>
@@ -32,10 +33,9 @@
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  6,758 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 512 tasks so far           
-⏳  Longest streak is 2 days
+🏆  Add about 50 projects in this year         
+🥅  Becoming an expert level problem solver.
+📩  Attend up 3 hackathons this year.
 <!-- TODO-IST:END -->
 
 
