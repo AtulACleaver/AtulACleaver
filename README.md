@@ -9,10 +9,10 @@
   <img align="left"  width="70px" src="https://media.giphy.com/media/kcrsKaI8PvJzsKRCNT/giphy.gif" />
 </a>
 <a href = "https://atulacleaver.medium.com/">
-  <img align="left" width = "50px" src="https://media.giphy.com/media/SSKQeJpU3aPEIPiGHT/giphy.gif"/>
-  </a>
+  <img align="left" width = "50px" src="https://media.giphy.com/media/SSKQeJpU3aPEIPiGHT/giphy.gif" />
+</a>
 
-<br />
+<br/>
 
  I am Atul Anand and I am a student. I love learning. I learn java, photo-editing, web development, languages(latin), singing, reading, writing articles.
 
