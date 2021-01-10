@@ -19,7 +19,7 @@
 - 👨🏽‍💻 I’m currently working on making my own website 🚄;
 - 🌱 I’m currently learning MERN Stack & Java and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">Mail Me</a>.
+- 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">mail Me</a>.
 - 🤝 Collab with: <code>Eddiehub</code>, #Local Hack day
 
 **Languages and Tools:**  
