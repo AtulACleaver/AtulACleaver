@@ -6,10 +6,10 @@
   <img align="left"  width="40px" src="https://media.giphy.com/media/2DdQosPxKwxpp58EZk/giphy.gif" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left"  width="40px" src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" />
+  <img align="left"  width="35px" src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" />
 </a>
 <a href="https://www.reddit.com/user/Atul_Cleaver">
-  <img align="left" alt="Abhishek's Reddit" width="40px" src="https://media.giphy.com/media/iFgzUCWgxj7B22ik2K/giphy.gif" />
+  <img align="left" alt="Abhishek's Reddit" width="60px" src="https://media.giphy.com/media/iFgzUCWgxj7B22ik2K/giphy.gif" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
