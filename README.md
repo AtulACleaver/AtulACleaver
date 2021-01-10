@@ -1,15 +1,15 @@
 ### Hey there <img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="25px">
 <a href="https://twitter.com/atulacleaver">
-  <img align="left" alt="atul anand | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" width="40px" src="https://media.giphy.com/media/OwP95PtglQOFIVV3Vf/giphy.gif" />
 </a>
 <a href="https://www.instagram.com/atulacleaver/">
-  <img align="left" alt="Atul's instagram" width="29px" src="https://media.giphy.com/media/vt8xJK48DdQPHbOjRA/giphy.gif" />
+  <img align="left"  width="40px" src="https://media.giphy.com/media/2DdQosPxKwxpp58EZk/giphy.gif" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left"  width="40px" src="https://media.giphy.com/media/WtbU2qnifsVsPhH5Yp/giphy.gif" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+<a href="https://www.reddit.com/user/Atul_Cleaver">
+  <img align="left" alt="Abhishek's Reddit" width="40px" src="https://media.giphy.com/media/iFgzUCWgxj7B22ik2K/giphy.gif" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
