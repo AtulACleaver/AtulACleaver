@@ -6,14 +6,15 @@
   <img align="left"  width="40px" src="https://media.giphy.com/media/2DdQosPxKwxpp58EZk/giphy.gif" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left"  width="35px" src="https://media.giphy.com/media/kcrsKaI8PvJzsKRCNT/giphy.gif" />
+  <img align="left"  width="70px" src="https://media.giphy.com/media/kcrsKaI8PvJzsKRCNT/giphy.gif" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<a href = "https://atulacleaver.medium.com/">
+  <img align="left" width = "50px" src="https://media.giphy.com/media/SSKQeJpU3aPEIPiGHT/giphy.gif"/>
+  </a>
 
 <br />
 
-Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack Web Developer 🚀 from India.
+ I am Atul Anand and I am a student. I love learning. I learn java, photo-editing, web development, languages(latin), singing, reading, writing articles.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
