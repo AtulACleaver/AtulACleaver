@@ -16,8 +16,8 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on making my own website 🚄;
-- 🌱 I’m currently learning MERN Stack & Java and Algorithms; 
+- 👨🏽‍💻 I’m currently working on making my own website and other small fun projects;
+- 🌱 I’m currently learning Python & Java and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">mail Me</a>.
 - 🤝 Collab with: <code>Eddiehub</code>, #Local Hack day
