@@ -40,7 +40,7 @@
 
 
 📈 My GitHub Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulacleaver&theme=radical&margin-w=15&margin-h=15&column=7" alt="atulacleaver" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulacleaver&theme=onedark&margin-w=15&margin-h=15&column=7" alt="atulacleaver" /></a> </p>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&&theme=radical" alt="AtulACleaver" width="400px" height="170"   align="left" />
