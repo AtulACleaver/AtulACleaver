@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning Python & Java and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">mail Me</a>.
-- 🤝 Collab with: <code>Eddiehub</code>, #Local Hack day
+- 🤝 Collab with: <code>#Eddiehub</code>, #Local Hack day
 
 **Languages and Tools:**  
 <p>
@@ -40,10 +40,18 @@
 
 
 📈 My GitHub Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulacleaver&theme=onedark&margin-w=15&margin-h=15&column=7" alt="atulacleaver" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=atulacleaver&theme=onedark&margin-w=15&margin-h=15&column=7" alt="atulacleaver" />
+  </a> 
+</p>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&&theme=radical" alt="AtulACleaver" width="400px" height="170"   align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&&theme=radical" alt="AtulACleaver" width="400px" height="200px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulacleaver&layout=compact&theme=radical" width="400px" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulacleaver&layout=compact&theme=radical" width="400px" height="170px"/>
+</div>
+
+<div>
+    <img src = "https://activity-graph.herokuapp.com/graph?username=AtulACleaver&show_icons=true&count_private=true&theme=redical&area=true">
 </div>
