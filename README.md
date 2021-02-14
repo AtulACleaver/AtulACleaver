@@ -39,7 +39,8 @@
 <!-- TODO-IST:END -->
 
 
-<div>📈 My GitHub Stats
+<div>📈 My GitHub Stats <br><br>
+  <div>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=atulacleaver&theme=onedark&margin-w=15&margin-h=15&column=7" alt="atulacleaver" />
@@ -55,5 +56,6 @@
 
 <div>
     <img src = "https://activity-graph.herokuapp.com/graph?username=AtulACleaver&show_icons=true&count_private=true&theme=redical&area=true">
+</div>
 </div>
 </div>
