@@ -39,7 +39,7 @@
 <!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
+<div>📈 My GitHub Stats
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=atulacleaver&theme=onedark&margin-w=15&margin-h=15&column=7" alt="atulacleaver" />
@@ -47,7 +47,7 @@
 </p>
 
 <div>
-  <table border="0" cellpadding="0" cellspacing="0"><tr>
+  <table align = "center" ><tr>
 <td> <img src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&&theme=radical" alt="AtulACleaver" style = "width: 250px;"/> </td>
 <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulacleaver&layout=compact&theme=radical" style = "width: 250px;"/> </td>
 </tr></table>
@@ -55,4 +55,5 @@
 
 <div>
     <img src = "https://activity-graph.herokuapp.com/graph?username=AtulACleaver&show_icons=true&count_private=true&theme=redical&area=true">
+</div>
 </div>
