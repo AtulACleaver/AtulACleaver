@@ -47,9 +47,10 @@
 </p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&&theme=radical" alt="AtulACleaver" width="400px" height="200px"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulacleaver&layout=compact&theme=radical" width="400px" height="170px"/>
+  <table border="0" cellpadding="0" cellspacing="0"><tr>
+<td> <img src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&&theme=radical" alt="AtulACleaver" style = "width: 250px;"/> </td>
+<td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulacleaver&layout=compact&theme=radical" style = "width: 250px;"/> </td>
+</tr></table>
 </div>
 
 <div>
