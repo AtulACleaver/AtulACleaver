@@ -10,7 +10,7 @@
 <br>
 <br>
 
- I am Atul Anand and I am a student. I love learning. I learn [java](http://hackerrank.com/), photo-editing, web development, [learning Latin](https://www.duolingo.com/learn), singing, reading, [writing articles](https://atulacleaver.medium.com/).
+ I am Atul Anand and I am a student. I love learning. I learn [java](http://hackerrank.com/), photo-editing, web development, machine learning, [Latin](https://www.duolingo.com/learn), singing, reading books, [writing articles](https://atulacleaver.medium.com/).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height= 400px/>
   
