@@ -41,11 +41,6 @@
 
 <div>📈 My GitHub Stats <br><br>
   <div>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=atulacleaver&theme=onedark&margin-w=15&margin-h=15&column=7" alt="atulacleaver" />
-  </a> 
-</p>
 
 <div>
   <table align = "center" ><tr>
