@@ -33,7 +33,7 @@
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-- 🏆  Add about 50 projects in this year         
+- ✅🏆  Add about 50 projects in this year         
 - 🥅  Becoming an expert level problem solver.
 - 📩  Attend up 10 hackathons this year.
 <!-- TODO-IST:END -->
