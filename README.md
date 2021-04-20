@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning Python & Java and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">mail Me</a>.
-- 🤝 Collab with: `BLAHAJGang`, #Local Hack day
+- 🤝 Collab with: `BLAHAJGang`, `#Local Hack day`
 
 **Languages and Tools:**  
 <p>
