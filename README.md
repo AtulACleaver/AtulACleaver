@@ -19,7 +19,7 @@
 - 👨🏽‍💻 I’m currently working on making my own website and other small fun projects;
 - 🌱 I’m currently learning Python & Java and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">mail Me</a>.
+- 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">mail Me</a>, More option on my website <a href="https://www.atulanand.co/sessions">atulanand.co</a>.
 - 🤝 Collab with: `BLAHAJGang`, `#Local Hack day`
 
 **Languages and Tools:**  
