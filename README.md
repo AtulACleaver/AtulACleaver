@@ -1,34 +1,34 @@
 
-### Hey there <img src="https://media.giphy.com/media/292VY8JD9wSSA/giphy.gif" width="25px">
-<a href="https://twitter.com/atulacleaver">
-  <img align="left" width="40px" src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" />
+# Hey Everyone –
+My name is Atul Anand. I am 14 years old. I like to talk about coding, notion, life, literature, music, psychology, movies, and especially my journey.
+
+Like every gen z, I like to share my life, journey, and achievements over the internet. I am really into creating great connections with you all.
+
+## Find Me On The Internet
+<a href="https://atulanand.co">
+  <img src="https://img.icons8.com/fluent/50/000000/domain.png"/>
 </a>
-<a href="https://www.instagram.com/atulacleaver/">
-  <img align="left"  width="40px" src="https://media.giphy.com/media/SwyH7oWi2vhkOjCwiJ/giphy.gif" /></a>
-
-
+<a href="https://twitter.com/atulacleaver">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
 <br>
 <br>
-
- I am Atul Anand and I am a student. I love learning. I learn [java](http://hackerrank.com/), photo-editing, web development, machine learning, [Latin](https://www.duolingo.com/learn), singing, reading books, [writing articles](https://atulacleaver.medium.com/).
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"  height= 400px/>
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on making my own website and other small fun projects;
+- 👨🏽‍💻 I’m currently finished working on making my personal website and other small fun projects;
 - 🌱 I’m currently learning Python & Java and Algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">mail Me</a>, More option on my website <a href="https://www.atulanand.co/sessions">atulanand.co</a>.
-- 🤝 Collab with: `BLAHAJGang`, `#Local Hack day`
 
 **Languages and Tools:**  
 <p>
-<img height="30" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="30" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/128/Java-icon.png">
-<img height="30" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>  
+<img src="https://img.icons8.com/color/50/000000/javascript.png">
+<img src="https://img.icons8.com/color/50/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
 </p>
 
 🚧 **My Todoist Stats:**
