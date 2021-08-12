@@ -1,8 +1,6 @@
 
 # Hey Everyone –
-My name is Atul Anand. I am 14 years old. I like to talk about coding, notion, life, literature, music, psychology, movies, and especially my journey.
-
-Like every gen z, I like to share my life, journey, and achievements over the internet. I am really into creating great connections with you all.
+My name is Atul Anand. I am 15 years old. I like to talk about coding, Notion, life, literature, music, psychology.
 
 ## Find Me On The Internet
 <a href="https://atulanand.co">
@@ -31,7 +29,7 @@ Like every gen z, I like to share my life, journey, and achievements over the in
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 </p>
 
-🚧 **My Todoist Stats:**
+🚧 **My Todo ats:**
 <!-- TODO-IST:START -->
 - ✅🏆  Add about 50 projects in this year         
 - 🥅  Becoming an expert level problem solver.
