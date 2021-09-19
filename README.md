@@ -41,9 +41,9 @@ My name is Atul Anand. I am 15 years old. I like to talk about coding, Notion, l
   <div>
 
 <div>
-  <table align = "center" ><tr>
-<td> <img src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&&theme=radical" alt="AtulACleaver" style = "width: 250px;"/> </td>
-<td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulacleaver&layout=compact&theme=radical" style = "width: 250px;"/> </td>
+  <table align = "center"><tr>
+<td> <img src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&&theme=radical" alt="AtulACleaver" style = "width: 100%;"/> </td>
+<td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulacleaver&layout=compact&theme=radical" style = "width: 100%;"/> </td>
 </tr></table>
 </div>
 
