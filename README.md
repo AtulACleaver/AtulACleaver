@@ -1,47 +1,45 @@
-
-# Hey Everyone –
-My name is Atul Anand. I am 15 years old. I like to talk about coding, Notion, life, literature, music, psychology.
-
-## Find Me On The Internet
-<a href="https://atulanand.co">
-  <img src="https://img.icons8.com/fluent/50/000000/domain.png"/>
-</a>
-<a href="https://twitter.com/atulacleaver">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
-<br>
-<br>
+# Atul here 👋
+I'm Atul, 15 years old. I'm learning 🧑🏻‍💻 programming to empower myself to create programs that improve lives. I also ✍️ create content on Twitter
   
-**Talking about Personal Stuffs:**
+## 📈 Personal Stats
+- 🌱 Currently learning programming to empower myself to create.
+- 🏗️ Building [Notion templates](atulacleaver.gumroad.com) to make your journey more efficient 🚀.
+- ✍️ Creting content daily content on [Twitter](https://twitter.com/AtulACleaver).
+- 📈 Created over 80+ coding projects, 11+ Notion Templates, and have made $$$$ selling them.
 
-- 👨🏽‍💻 I’m currently finished working on making my personal website and other small fun projects;
-- 🌱 I’m currently learning Python & Java and Algorithms; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <a href="mailto:atulcleaver@gmail.com">mail Me</a>, More option on my website <a href="https://www.atulanand.co/sessions">atulanand.co</a>.
-
-**Languages and Tools:**  
+## 🧰 Languages and Tools: 
 <p>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
 <img src="https://img.icons8.com/color/50/000000/javascript.png">
-<img src="https://img.icons8.com/color/50/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 </p>
 
-🚧 **My Todo ats:**
+## 🚧 To-do
 <!-- TODO-IST:START -->
-- ✅🏆  Add about 50 projects in this year         
-- 🥅  Becoming an expert level problem solver.
-- 📩  Attend up 10 hackathons this year.
+- 💡 Trying to finally learn Javascript and start creating stuff.
+- 💸 Build an online startup with min $2000 MRR.
+- 🏆 Win a hackathon
 <!-- TODO-IST:END -->
 
+## 📬 Reach Me: 
+- ✉️ [Mail Me](mailto:atul@atulanand.co)
+- 🐦 [DM Me on Twitter](https://twitter.com/atulacleaver)
 
-<div>📈 My GitHub Stats <br><br>
-  <div>
+
+## 🌏 Social Links:
+- 🌐 [Personal Website](https://atulanand.co/)(upgrading it soon 🔥)
+- 🦚 Find my daily content on [Twitter](https://twitter.com/atulacleaver)
+- ✍️ Read my writings on [Medium](https://atulacleaver.medium.com/) & more [here](https://typeshare.co/g/atulacleaver)
+- 🚀 Find my [Notion templates](https://atulacleaver.gumroad.com)
+- 
+
+
+## 📈 My GitHub Stats
 
 <div>
-  <table align = "center"><tr>
+<table align = "center" width:"100%"><tr>
 <td> <img src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&&theme=radical" alt="AtulACleaver" style = "width: 100%;"/> </td>
 <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulacleaver&layout=compact&theme=radical" style = "width: 100%;"/> </td>
 </tr></table>
