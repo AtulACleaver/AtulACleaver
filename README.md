@@ -33,7 +33,6 @@ I'm Atul, 15 years old. I'm learning 🧑🏻‍💻 programming to empower myse
 - 🦚 Find my daily content on [Twitter](https://twitter.com/atulacleaver)
 - ✍️ Read my writings on [Medium](https://atulacleaver.medium.com/) & more [here](https://typeshare.co/g/atulacleaver)
 - 🚀 Find my [Notion templates](https://atulacleaver.gumroad.com)
-- 
 
 
 ## 📈 My GitHub Stats
