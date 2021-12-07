@@ -7,7 +7,7 @@ I'm Atul, 15 years old. I'm learning 🧑🏻‍💻 programming to empower myse
 - ✍️ Creting content daily content on [Twitter](https://twitter.com/AtulACleaver).
 - 📈 Created over 80+ coding projects, 11+ Notion Templates, and have made $$$$ selling them.
 
-## 🧰 Languages and Tools: 
+## 🧰 Languages and Tools
 <p>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
@@ -23,12 +23,12 @@ I'm Atul, 15 years old. I'm learning 🧑🏻‍💻 programming to empower myse
 - 🏆 Win a hackathon
 <!-- TODO-IST:END -->
 
-## 📬 Reach Me: 
+## 📬 Reach Me
 - ✉️ [Mail Me](mailto:atul@atulanand.co)
 - 🐦 [DM Me on Twitter](https://twitter.com/atulacleaver)
 
 
-## 🌏 Social Links:
+## 🌏 Social Links
 - 🌐 [Personal Website](https://atulanand.co/)(upgrading it soon 🔥)
 - 🦚 Find my daily content on [Twitter](https://twitter.com/atulacleaver)
 - ✍️ Read my writings on [Medium](https://atulacleaver.medium.com/) & more [here](https://typeshare.co/g/atulacleaver)
