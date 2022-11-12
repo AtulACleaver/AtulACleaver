@@ -1,5 +1,5 @@
 # Atul here 👋
-I'm Atul, 15 years old. I'm learning 🧑🏻‍💻 programming to empower myself to create programs that improve lives. I also ✍️ create content on Twitter and write on Medium. 
+I'm Atul, 16 years old. I'm learning 🧑🏻‍💻 programming to empower myself to create programs that improve lives. I also ✍️ create content on Twitter and write on Medium. 
   
 ## 📈 Personal Stats
 - 🌱 Currently learning programming to empower myself to create.
