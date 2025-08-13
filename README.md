@@ -1,5 +1,5 @@
 # Atul here 👋
-I'm Atul, 18 years old. I'm learning 🧑🏻‍💻 programming to empower myself to create programs that improve lives. I also ✍️ create content on Twitter and write on Medium. 
+I'm Atul, 19 years old. I'm learning 🧑🏻‍💻 programming to empower myself to create programs that improve lives. I also ✍️ create content on Twitter and write on Medium. 
   
 ## 📈 Personal Stats
 - 🌱 Currently learning programming to empower myself to create.
@@ -17,19 +17,17 @@ I'm Atul, 18 years old. I'm learning 🧑🏻‍💻 programming to empower myse
 </p>
 
 ## 🚧 To-do
-<!-- TODO-IST:START -->
-- 💡 Trying to finally learn Javascript and start creating stuff.
-- 💸 Build an online startup with min $2000 MRR.
-- 🏆 Win a hackathon
-<!-- TODO-IST:END -->
+- 💡 Experiment & find my path with programming
+- 🏆 Win a good hackathon
+- 📈 Turn a project into a product
+
 
 ## 📬 Reach Me
-- ✉️ [Mail Me](mailto:atul@atulanand.co)
+- ✉️ [Mail Me](mailto:atul@notionatul.com)
 - 🐦 [DM Me on Twitter](https://twitter.com/atulacleaver)
 
 
 ## 🌏 Social Links
 - 🌐 [Personal Website](https://atulanand.co/)(upgrading it soon 🔥)
 - 🦚 Find my daily content on [Twitter](https://twitter.com/atulacleaver)
-- ✍️ Read my writings on [Medium](https://atulacleaver.medium.com/) & more [here](https://typeshare.co/g/atulacleaver)
 - 🚀 Find my [Notion templates](https://atulacleaver.gumroad.com)
