@@ -28,6 +28,6 @@ I'm Atul, 19 years old. I'm learning 🧑🏻‍💻 programming to empower myse
 
 
 ## 🌏 Social Links
-- 🌐 [Personal Website](https://atulanand.co/)(upgrading it soon 🔥)
+- 🌐 [Website](https://atulanand.co/)(updated!!)
 - 🦚 Find my daily content on [Twitter](https://twitter.com/atulacleaver)
 - 🚀 Find my [Notion templates](https://atulacleaver.gumroad.com)
