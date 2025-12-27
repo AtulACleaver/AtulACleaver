@@ -11,7 +11,7 @@ I'm Atul, 19 years old, passionate about programming and empowering myself to cr
 - ✍️ **Creating daily content** on [Twitter](https://twitter.com/AtulACleaver).
 - 🎉 **Qualified SIH Semi-finalist**
 - 🎉 **Qualified OpenAI X Nxt Wave Hackathon**
-- 📊 **Created 80+ coding projects, 11+ Notion Templates, and earned $$$$ selling them.**
+- 📊 **Created 80+ coding projects, 11+ Notion Templates, and earned 7 figures selling them.**
 
 ---
 
