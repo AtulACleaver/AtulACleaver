@@ -37,7 +37,7 @@ class AtulAnand:
 
 ---
 
-## � Currently Working On
+## 🚀 Currently Working On
 
 <table>
 <tr>
@@ -51,8 +51,6 @@ Users input budget and health conditions → a **linear programming engine (PuLP
 
 `FastAPI` `PostgreSQL` `React` `Tailwind` `PuLP` `Supabase`
 
-[![NutriKart](https://github-readme-stats.vercel.app/api/pin/?username=AtulACleaver&repo=nutrikart&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/AtulACleaver/nutrikart)
-
 </td>
 <td width="50%">
 
@@ -64,17 +62,15 @@ Upload PDFs → automatic chunking + FAISS vector indexing → ask questions →
 
 `FastAPI` `FAISS` `Ollama` `Mistral` `sentence-transformers`
 
-[![Sourcely](https://github-readme-stats.vercel.app/api/pin/?username=AtulACleaver&repo=Sourcely&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/AtulACleaver/Sourcely)
-
 </td>
 </tr>
 </table>
 
 ---
 
-## � Highlights
+## 📊 Highlights
 
-<div align="center">
+<div align="left">
 
 | 🎯 | Achievement |
 |:---:|:---|
@@ -90,7 +86,7 @@ Upload PDFs → automatic chunking + FAISS vector indexing → ask questions →
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -102,6 +98,7 @@ Upload PDFs → automatic chunking + FAISS vector indexing → ask questions →
 #### Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
@@ -126,7 +123,7 @@ Upload PDFs → automatic chunking + FAISS vector indexing → ask questions →
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -137,7 +134,7 @@ Upload PDFs → automatic chunking + FAISS vector indexing → ask questions →
 
 ---
 
-## � Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
