@@ -1,57 +1,158 @@
-# 👋 Hi, I'm Atul Anand!
+<div align="center">
 
-I'm Atul, 19 years old, passionate about programming and empowering myself to create solutions that improve lives. I create daily content on Twitter and write on Medium.
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Atul%20Anand&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Building%20AI-Powered%20Products%20%7C%20Full-Stack%20ML%20Systems&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
----
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=CS+Undergrad+%40+KIIT+%F0%9F%8E%93;AI%2FML+Engineer+%7C+Full-Stack+Builder+%F0%9F%94%A7;)](https://github.com/AtulACleaver)
 
-## 📈 Personal Stats
+<br>
 
-- 🌱 **Currently learning programming** to empower myself to create impactful solutions.
-- 🏗️ **Building [Notion templates](https://atulacleaver.gumroad.com)** to make your journey more efficient 🚀.
-- ✍️ **Creating daily content** on [Twitter](https://twitter.com/AtulACleaver).
-- 🎉 **Qualified SIH Semi-finalist**
-- 🎉 **Qualified OpenAI X Nxt Wave Hackathon**
-- 📊 **Created 80+ coding projects, 11+ Notion Templates, and earned 7 figures selling them.**
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atulacleaver)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/atulacleaver)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atulanand.co/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2ulanand@gmail.com)
 
----
-
-## 🏆 Achievements
-
-- Qualified SIH Semi-final
-- Qualified OpenAI X Nxt Wave Hackathon
+</div>
 
 ---
 
-## 🧑🏻‍💻 Languages and Tools
+## 👋 About Me
 
-<p>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/50/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-</p>
-
----
-
-## 🚧 Current Goals
-
-- 💡 **Experiment and find my path with programming**
-- 🏆 **Win a good hackathon**
-- 📈 **Turn a project into a product**
-- 🤖 **Focus: AI & ML**
+```python
+class AtulAnand:
+    def __init__(self):
+        self.role = "CS Undergrad @ KIIT | AI/ML Builder"
+        self.location = "Odisha, India 🇮🇳"
+        self.currently_building = ["NutriKart", "Sourcely"]
+        self.stack = {
+            "backend": ["FastAPI", "PostgreSQL", "SQLAlchemy", "Supabase"],
+            "frontend": ["React", "Vite", "Tailwind CSS"],
+            "ai_ml": ["FAISS", "PuLP", "Ollama", "OpenAI", "Gemini", "sentence-transformers"],
+            "devops": ["Docker", "Vercel", "Render"]
+        }
+        self.fun_fact = "Built a 7-figure Notion template business before turning 19"
+```
 
 ---
 
-## 📬 Reach Me
+## � Currently Working On
 
-- ✉️ [Mail Me](mailto:atul@notionatul.com)
-- 🐦 [DM Me on Twitter](https://twitter.com/atulacleaver)
+<table>
+<tr>
+<td width="50%">
+
+### 🥬 [NutriKart](https://github.com/AtulACleaver/nutrikart)
+
+**Constraint-based grocery recommendation system**
+
+Users input budget and health conditions → a **linear programming engine (PuLP)** finds the mathematically optimal product mix subject to nutritional constraints.
+
+`FastAPI` `PostgreSQL` `React` `Tailwind` `PuLP` `Supabase`
+
+[![NutriKart](https://github-readme-stats.vercel.app/api/pin/?username=AtulACleaver&repo=nutrikart&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/AtulACleaver/nutrikart)
+
+</td>
+<td width="50%">
+
+### 📄 [Sourcely](https://github.com/AtulACleaver/Sourcely)
+
+**LLM-powered RAG system for research papers**
+
+Upload PDFs → automatic chunking + FAISS vector indexing → ask questions → get **cited answers** grounded in source material.
+
+`FastAPI` `FAISS` `Ollama` `Mistral` `sentence-transformers`
+
+[![Sourcely](https://github-readme-stats.vercel.app/api/pin/?username=AtulACleaver&repo=Sourcely&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/AtulACleaver/Sourcely)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌏 Social Links
+## � Highlights
 
-- 🌐 [Website](https://atulanand.co/) (updated!!)
-- 🦚 [Daily content on Twitter](https://twitter.com/atulacleaver)
-- 🚀 [Notion templates on Gumroad](https://atulacleaver.gumroad.com)
+<div align="center">
+
+| 🎯 | Achievement |
+|:---:|:---|
+| 🏅 | **Smart India Hackathon** — Institutional Semi-finalist (500+ teams) |
+| 🤖 | **OpenAI × NxtWave Hackathon** — Cleared qualifying round |
+| 🇮🇳 | **Notion Ambassador** — Biggest Notion creator from India |
+| 💰 | **7-figure revenue** from 11+ Notion templates, 100K+ users |
+| 🎓 | **Notion Certified Admin** — Advanced, Essentials, Workflow badges |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### AI/ML
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+---
+
+## � GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulACleaver&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" />
+
+</div>
+
+---
+
+## � Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtulACleaver/AtulACleaver/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtulACleaver/AtulACleaver/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AtulACleaver/AtulACleaver/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
+
+</div>
