@@ -122,17 +122,6 @@ Upload PDFs → automatic chunking + FAISS vector indexing → ask questions →
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtulACleaver&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulACleaver&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="left">
