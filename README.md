@@ -4,7 +4,7 @@
 </picture>
 
 <p>
-  <a href="https://atulanand.co/"><code>atulanand.co ↗</code></a>&nbsp;
+  <a href="https://atulanand.co/tech"><code>atulanand.co/tech ↗</code></a>&nbsp;
   <a href="https://linkedin.com/in/atulacleaver"><code>LinkedIn ↗</code></a>&nbsp;
   <a href="https://twitter.com/atulacleaver"><code>X ↗</code></a>&nbsp;
   <a href="mailto:a2ulanand@gmail.com"><code>a2ulanand@gmail.com</code></a>
